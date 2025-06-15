@@ -1,0 +1,4 @@
+2025-06-07 14:56:18,175 - INFO - Started downloading data for SPY
+2025-06-07 14:56:19,430 - INFO - Successfully saved SPY data to data/raw/spy_stock.csv
+2025-06-07 14:56:19,431 - INFO - Started downloading data for EURUSD=X
+2025-06-07 14:56:19,851 - INFO - Successfully saved EURUSD=X data to data/raw/eurusd_fx.csv
