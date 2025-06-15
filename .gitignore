@@ -7,12 +7,15 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore log files
-logs/
-*.log
+#logs/
+#*.log
 
 # Ignore datasets
 data/raw/
-data/cleaned/
+#credit_card_fraud_cleaned.csv
+data/cleaned/eurusd_fx_cleaned.csv
+data/cleaned/spy_stock_cleaned.csv
+data/cleaned/credit_card_fraud_cleaned.csv
 #  data/processed/
 
 
