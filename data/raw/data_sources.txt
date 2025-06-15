@@ -1,0 +1,17 @@
+Data Sources Used
+
+1. Stock Market Data
+- Ticker: SPY (S&P 500 ETF)
+- Source: Yahoo Finance
+- **Tool**: yfinance Python package
+- **Time Range**: 2020-01-01 to 2024-12-31
+
+## 2. Foreign Exchange Data
+- **Pair**: EUR/USD
+- **Ticker**: EURUSD=X
+- **Source**: Yahoo Finance
+
+## 3. Credit Card Fraud Data
+- **Source**: Kaggle
+- **URL**: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- **Format**: CSV (284,807 transactions with fraud labels)

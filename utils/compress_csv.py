@@ -5,7 +5,11 @@ import shutil
 #data/cleaned/spy_stock_cleaned.csv
 #data/cleaned/credit_card_fraud_cleaned.csv
 
-input_file = 'data/cleaned/eurusd_fx_cleaned.csv'
+#data/raw/eurusd_fx_cleaned.csv
+#data/raw/spy_stock.csv
+#data/raw/credit_card_fraud.csv
+
+input_file = 'data/raw/credit_card_fraud.csv'
 output_file = input_file + '.gz'
 
 with open(input_file, 'rb') as f_in:
